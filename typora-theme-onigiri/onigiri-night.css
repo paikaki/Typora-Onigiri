@@ -91,6 +91,7 @@ h1 {
   line-height: 4rem;
   font-size: 3rem;
   margin: 0 0 1.75rem;
+  border-bottom: 1px solid #eee;
 }
 
 h2 {
